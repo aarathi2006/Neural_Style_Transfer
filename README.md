@@ -38,3 +38,4 @@ Compute content and style loss
 Optimize generated image to minimize total loss
 
 Output stylized image
+<img width="1107" height="570" alt="Image" src="https://github.com/user-attachments/assets/b8bc36c1-07d1-48fa-a70a-94b095a56144" />
